@@ -9,7 +9,7 @@ Contact:	rob@scienceguyrob.com or robert.lyon@.manchester.ac.uk
 Web:		http://www.scienceguyrob.com or http://www.cs.manchester.ac.uk
 			or alternatively http://www.jb.man.ac.uk
 ******************************************************************************************
-
+Cancel changes
 1. Overview
 
 	HTRU2 is a data set which describes a sample of pulsar candidates collected during the
