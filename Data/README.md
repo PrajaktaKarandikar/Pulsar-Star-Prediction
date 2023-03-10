@@ -1,6 +1,6 @@
 ******************************************************************************************
 
-About the data:
+# About the data:
 
 	HTRU2 is a data set which describes a sample of pulsar candidates collected during the
 	High Time Resolution Universe Survey (South) [1]. 
