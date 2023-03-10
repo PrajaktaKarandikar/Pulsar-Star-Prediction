@@ -47,3 +47,6 @@ Dataset Summary:
 	Candidates are stored in both files in separate rows. Each row lists the variables first,
 	and the class label is the final entry. The class labels used are 0 (negative) and 1 
 	(positive).
+	
+Train, Test and Validation Sets:
+	These subsets have been extracted from the main csv file containing HTRU 2 Data.
